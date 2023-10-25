@@ -1,0 +1,13 @@
+E:\software\Visual Stuido\Refugio animal\Refugio animal\bin\Debug\netcoreapp3.1\Refugio animal.exe
+E:\software\Visual Stuido\Refugio animal\Refugio animal\bin\Debug\netcoreapp3.1\Refugio animal.deps.json
+E:\software\Visual Stuido\Refugio animal\Refugio animal\bin\Debug\netcoreapp3.1\Refugio animal.runtimeconfig.json
+E:\software\Visual Stuido\Refugio animal\Refugio animal\bin\Debug\netcoreapp3.1\Refugio animal.runtimeconfig.dev.json
+E:\software\Visual Stuido\Refugio animal\Refugio animal\bin\Debug\netcoreapp3.1\Refugio animal.dll
+E:\software\Visual Stuido\Refugio animal\Refugio animal\bin\Debug\netcoreapp3.1\Refugio animal.pdb
+E:\software\Visual Stuido\Refugio animal\Refugio animal\obj\Debug\netcoreapp3.1\Refugio animal.csproj.AssemblyReference.cache
+E:\software\Visual Stuido\Refugio animal\Refugio animal\obj\Debug\netcoreapp3.1\Refugio animal.AssemblyInfoInputs.cache
+E:\software\Visual Stuido\Refugio animal\Refugio animal\obj\Debug\netcoreapp3.1\Refugio animal.AssemblyInfo.cs
+E:\software\Visual Stuido\Refugio animal\Refugio animal\obj\Debug\netcoreapp3.1\Refugio animal.csproj.CoreCompileInputs.cache
+E:\software\Visual Stuido\Refugio animal\Refugio animal\obj\Debug\netcoreapp3.1\Refugio animal.dll
+E:\software\Visual Stuido\Refugio animal\Refugio animal\obj\Debug\netcoreapp3.1\Refugio animal.pdb
+E:\software\Visual Stuido\Refugio animal\Refugio animal\obj\Debug\netcoreapp3.1\Refugio animal.genruntimeconfig.cache

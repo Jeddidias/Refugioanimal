@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refugio animal", "Refugio animal\Refugio animal.csproj", "{C930A0E9-C0AE-4DBF-8A31-92186CA2E04C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C930A0E9-C0AE-4DBF-8A31-92186CA2E04C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C930A0E9-C0AE-4DBF-8A31-92186CA2E04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C930A0E9-C0AE-4DBF-8A31-92186CA2E04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C930A0E9-C0AE-4DBF-8A31-92186CA2E04C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {360F8259-9B58-409F-821F-0E615E510807}
+	EndGlobalSection
+EndGlobal
